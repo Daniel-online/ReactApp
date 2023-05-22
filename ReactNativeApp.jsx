@@ -1,1 +1,6 @@
 
+<view>
+  <text>
+    
+  </text>
+</view>
